@@ -1,4 +1,4 @@
-# [bosu!]
+# bosu!
 **bosu!** is an unofficial open-source client for the rhythm game
 [osu!](https://osu.ppy.sh/), written in Java using
 [Slick2D](http://slick.ninjacave.com/) and  [LWJGL](http://lwjgl.org/)
