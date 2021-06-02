@@ -1,12 +1,10 @@
-# [opsu!](https://itdelatrisu.github.io/opsu/)
-**opsu!** is an unofficial open-source client for the rhythm game
+# [bosu!]
+**bosu!** is an unofficial open-source client for the rhythm game
 [osu!](https://osu.ppy.sh/), written in Java using
 [Slick2D](http://slick.ninjacave.com/) and  [LWJGL](http://lwjgl.org/)
 (wrappers around OpenGL and OpenAL).
 
-opsu! runs on Windows, OS X, and Linux.
-
-This is a fork of [opsu!](https://github.com/itdelatrisu/opsu).
+bosu! runs on Windows, OS X, and Linux.
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
